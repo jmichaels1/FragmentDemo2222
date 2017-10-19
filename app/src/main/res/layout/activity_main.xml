@@ -13,4 +13,12 @@
         android:text="commit"
         tools:layout_editor_absoluteX="160dp"
         tools:layout_editor_absoluteY="158dp" />
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="commit"
+        tools:layout_editor_absoluteX="158dp"
+        tools:layout_editor_absoluteY="195dp" />
 </android.support.constraint.ConstraintLayout>
